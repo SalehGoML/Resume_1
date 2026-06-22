@@ -16,7 +16,7 @@ A minimal, dark-themed portfolio showcasing my work experience, projects, and sk
 - **Styling:** Tailwind CSS v4
 - **Animations:** Framer Motion
 - **Icons:** Lucide React
-- **Deployment:** Vercel
+- **Deployment:** Vps
 
 ## Features
 
