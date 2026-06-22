@@ -1,7 +1,7 @@
 # saleh.dev — Personal Portfolio
 
 My personal portfolio website built with Next.js 14, React, TypeScript, and Tailwind CSS.  
-Live at: [saleh.dev](https://saleh.dev)
+Live at: [saleh.dev](https://salehdev.ir)
 
 ---
 
